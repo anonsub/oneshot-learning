@@ -1,4 +1,4 @@
-# strips-learning
+# One-shot learning
 
 ### Modify the following line in src/config.py to set the project path
 
